@@ -78,14 +78,9 @@ Three categories of research work in CSPD have been conducted to increase consum
 
 Big data and Artificial Intelligence are likely to play an important role in the early stages of local energy systems to estimate load profiles of energy customers and energy networks when there are significant data gaps. Critically, when smart meter and substation data is widely available, they will support advanced understanding of energy resources at different levels to inform high-precision energy management and trading.
 
-[1]: https://es.catapult.org.uk/news/energy-data-taskforce-report/   
-
+[1]: https&#58;//es.catapult.org.uk/news/energy-data-taskforce-report/   
 [2]: Li, R., Li, F., & Smith, N. D. (2016). Multi-resolution load profile clustering for smart metering data. IEEE Transactions on Power Systems, 31(6), 4473-4482.   
-
 [3]: Tong, X., Li, R., Li, F., & Kang, C. (2016). Cross-domain feature selection and coding for household energy behavior. Energy, 107, 9-16.   
-
 [4]: Shi, H., Xu, M., & Li, R. (2017). Deep learning for household load forecasting—A novel pooling deep RNN. IEEE Transactions on Smart Grid, 9(5), 5271-5280.   
-
 [5]: Li, R., Gu, C., Li, F., Shaddick, G., & Dale, M. (2014). Development of low voltage network templates—Part I: Substation clustering and classification. IEEE Transactions on Power Systems, 30(6), 3036-3044.   
-
 [6]: Li, R., Gu, C., Li, F., Shaddick, G., & Dale, M. (2014). Development of low voltage network templates—Part II: Peak load estimation by clusterwise regression. IEEE Transactions on Power Systems, 30(6), 3045-3052.   
