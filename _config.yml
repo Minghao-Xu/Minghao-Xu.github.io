@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Minghao Xu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Postdoctoral Research Associate at the University of Bath."
+  bio              : "I am a Postdoctoral Research Associate at the University of Bath. I develop and apply big data analytical and machining learning algorithms on consumer energy data. "
   location         : "Bath, UK"
   email            :
   links:
