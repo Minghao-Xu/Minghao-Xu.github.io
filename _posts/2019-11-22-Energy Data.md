@@ -1,3 +1,11 @@
+---
+title: "Energy Data in Smart Local Energy Systems"
+date: 2019-11-22
+tags: [machine learning, data, local energy systems, energy data]
+header:
+ image: "/assets/images/Index Page/Bath_Sunset.jpeg"
+---
+
 # Energy Data in Smart Local Energy Systems
 Decarbonisation and decentralisation are transforming the UK energy sector, driving it towards a Net Zero carbon future. With respect to the system structure, this is a fundamental shift from centralised command and control-based structures to more decentralised, interactive and collaborative structures. The management of the new energy system involves multiple actors at different layers and will heavily require collecting, exchanging and interoperating with the data.
 
