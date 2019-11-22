@@ -57,7 +57,7 @@ Three categories of research work in CSPD have been conducted to increase consum
   </style>
 
   <div>
-  <img src="./assets/images/Energy_Data/Social-Eco Gene.png" alt="Social-Eco Gene" class="center" style="width:100%"/>
+  <img src="/assets/images/Energy_Data/Social-Eco Gene.png" alt="Social-Eco Gene" class="center" style="width:100%"/>
   <div class="caption">Figure 4: Social-Eco Gene Map</div>
   </div>
 
