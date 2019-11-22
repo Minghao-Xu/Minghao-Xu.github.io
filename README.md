@@ -1,2 +1,2 @@
 # Minghao Xu's Blog
-# https://minghao-xu.github.io/
+## https://minghao-xu.github.io/
