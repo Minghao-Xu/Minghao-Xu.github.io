@@ -19,24 +19,6 @@ Visibility is a key component and enabler to achieve a modern and digitalised en
 
 The figures below are a demonstration of how volatile and uncertain consumer energy data are compared to more aggregated data.
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 <div class="row">
   <div class="column">
