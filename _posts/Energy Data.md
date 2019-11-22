@@ -42,19 +42,6 @@ Three categories of research work in CSPD have been conducted to increase consum
 
   We have also developed a consumer segmentation framework using consumers’ social-economic/ sociodemographic information [^3]. Energy behavior patterns could be directly inferred from consumers’ sociodemographic status.
 
-  <style>
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .caption {
-      width: 5;
-      text-align: left;
-  }
-
-  </style>
 
   <div>
   <img src="/assets/images/Energy_Data/Social-Eco Gene.png" alt="Social-Eco Gene" class="center" style="width:100%"/>
@@ -66,20 +53,6 @@ Three categories of research work in CSPD have been conducted to increase consum
 
   We have developed a bespoke deep learning application for household load forecasting which can learn the uncertainties of domestic load profiles directly, and avoid overfitting encountered by most deep learning models [^4]. Specifically, the method enables learning of spatial information shared between interconnected customers and hence allowing more learning layers before the occurrence of overfitting.
 
-  <style>
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .caption {
-      width: 5;
-      text-align: left;
-  }
-
-  </style>
-
   <div>
   <img src="/assets/images/Energy_Data/Forecasting.png" alt="Forecasting" class="center" style="width:100%"/>
   <div class="caption">Figure 5: Forecasting Comparison Between Different Methods</div>
@@ -89,24 +62,6 @@ Three categories of research work in CSPD have been conducted to increase consum
 3. Low Voltage Network Template
 
   We have developed and tested a cost-effective statistical method which significantly improves the visibility of LV networks without extensive monitoring cost [^5]. Specifically, a novel hybrid clustering technique was first developed to extract the underlying patterns of the substation data which are reified in the form of typical templates. The extracted patterns were then leveraged to train various regression models which can accurately infer the conditions of un-monitored LV substations entirely based on routinely available fixed data.
-  <style>
-  * {
-    box-sizing: border-box;
-  }
-
-  .column {
-    float: left;
-    width: 50%;
-    padding: 5px;
-  }
-
-  /* Clearfix (clear floats) */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-  </style>
 
   <div class="row">
     <div class="column">
